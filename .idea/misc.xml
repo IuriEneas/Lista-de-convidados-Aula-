@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados - Copia/app/src/main/res/layout/activity_company_form.xml" value="0.365036231884058" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados - Copia/app/src/main/res/layout/activity_guest_form.xml" value="0.33" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados - Copia/app/src/main/res/layout/activity_main.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados - Copia/app/src/main/res/layout/app_bar_main.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados - Copia/app/src/main/res/layout/fragment_present.xml" value="0.34646739130434784" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados - Copia/app/src/main/res/layout/row_guest.xml" value="0.34646739130434784" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/drawable/ic_baseline_person_off_24.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/drawable/side_nav_bar.xml" value="0.382051282051282" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/layout/activity_guest_form.xml" value="0.33" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/layout/app_bar_main.xml" value="0.29814814814814816" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/layout/fragment_absent.xml" value="0.371875" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/layout/fragment_all.xml" value="0.371875" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/layout/fragment_present.xml" value="0.371875" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/layout/nav_header_main.xml" value="0.371875" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/layout/row_guest.xml" value="0.371875" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/menu/activity_main_drawer.xml" value="0.36615384615384616" />
+        <entry key="..\:/Users/iuri_/AndroidStudioProjects/Convidados/app/src/main/res/menu/main.xml" value="0.3296296296296296" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
